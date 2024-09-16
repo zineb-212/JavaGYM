@@ -20,6 +20,10 @@ In this section, I will present the interfaces of our application, showcasing ho
 - **Authentication Page :**
   This page allows the user to log in in order to access the other interfaces. It is designed to ensure that only gym staff can access the system, with no unauthorized users being allowed
 
-- 
+<img width="300" alt="a"  src="https://github.com/user-attachments/assets/3cb474af-8451-4685-9bfc-f1d402304c64">
+
+- **Home Page**
+This is the page that appears when the correct username and password are entered. From this page, the user can navigate to other sections of the application through the menu, allowing easy access to all features.
+
 
 
