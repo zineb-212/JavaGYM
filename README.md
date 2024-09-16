@@ -25,5 +25,20 @@ In this section, I will present the interfaces of our application, showcasing ho
 - **Home Page**
 This is the page that appears when the correct username and password are entered. From this page, the user can navigate to other sections of the application through the menu, allowing easy access to all features.
 
+<img width="700" alt="a"  src="https://github.com/user-attachments/assets/587bfdc2-a149-4a11-b412-8b7b2bd787be">
+
+- **Membership Management Page**
+  On the Member Management page, the following options are available:
+
+    - "Add" Button: Allows the user to add a new member.
+    - "Edit" Button: Enables the user to modify a member's information.
+    - "Delete" Button: Allows the user to select and remove a member from the system.
+ 
+- **Coach Management Page**
+  
+- **Session Management Page**
+- **Payment Management Page**
+  
+
 
 
