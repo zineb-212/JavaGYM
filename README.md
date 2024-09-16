@@ -34,10 +34,36 @@ This is the page that appears when the correct username and password are entered
     - "Edit" Button: Enables the user to modify a member's information.
     - "Delete" Button: Allows the user to select and remove a member from the system.
  
+  <img width="700" alt="a"  src="https://github.com/user-attachments/assets/6d1ccbfe-e84b-49ce-b65d-b2128587d611">
+
+ 
 - **Coach Management Page**
-  
+<img width="700" alt="a"  src="https://github.com/user-attachments/assets/b4a7df02-fe4e-4ba5-a4a3-f803178e4c74">
+
+- **Room Management Page**
+<img width="700" alt="a"  src="https://github.com/user-attachments/assets/e7faf26b-7a36-4e25-8d20-a7b9ba48e68c">
+
 - **Session Management Page**
+<img width="700" alt="a"  src="https://github.com/user-attachments/assets/92734caa-003e-41ef-ae0a-2689b0e4db12">
+
+  
 - **Payment Management Page**
+<img width="700" alt="a"  src="https://github.com/user-attachments/assets/5d811b59-84c9-4f01-81f4-7fc149b6269a">
+
+## Outcomes
+This project has allowed us to acquire many skills, including:
+- Designing user-friendly interfaces
+- Mastering programming in the Java language.
+- Using the MySQL database management system (DBMS) for defining and manipulating data.
+- Teamwork, which has been a source of both professional and personal growth.
+- Time management and task distribution.
+
+## Contributors
+#### SAHEL Bouchra
+#### HAGGOUD Manal
+#### MANADIR Iliyas
+#### M'HIFED Zineb
+
   
 
 
